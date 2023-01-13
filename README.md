@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img 
+(<img 
 src="https://capsule-render.vercel.app/api? //이 물음표 뒤에 붙는 인자들을 바꿔주면 된다.
 type=wave	//헤더의 모양이다.
 &color=auto	//헤더의 색을 어떻게 할건지 
@@ -27,4 +27,4 @@ type=wave	//헤더의 모양이다.
 &fontSize=90 	//헤더의 폰트사이즈
 &fontColor=ffee00  //폰트 컬러 : hexa값으로 적어두되, #은 뺄것!
 &animation=fadeIn" //애니메이션 효과
-/>
+/>)
