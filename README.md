@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Kim-HyunSeung&fontSize=90" />
 
+## Using Language
+<img src="https://img.shields.io/badge/C Shap-3776AB?style=for-the-badge&logo=C Sharp&logoColor=white">
